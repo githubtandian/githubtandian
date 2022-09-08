@@ -1,4 +1,4 @@
 - 👋 Hi, I’m GitHub探店
 - 👀 I’m active on [bilibili](https://space.bilibili.com/1124108437?spm_id_from=333.337.0.0)
-- 🌱 I'm exploring the store on GitHub
+- 🌱 I'm exploring the repository on GitHub
 - 📫 My email is githubtandian@163.com
